@@ -20,3 +20,24 @@ The comprehensive dataset used in this study consists of **90,000 images** and i
 # Run the script download the dataset with:
 python download_dataset.py
 ```
+**Citation**
+```
+@article{dinh2025simcrackgan,
+  title     = {Synthesizing Semantic Crack Images Using Propagation Simulations and GANs},
+  author    = {Dinh, Tran Hiep and Le, Cong Hieu and Lin, Chin-Teng and Trung, Nguyen Linh},
+  journal   = {IEEE Transactions on Instrumentation and Measurement},
+  note      = {under review},
+  year      = {2025}
+}
+```
+```
+@article{Dinh2023Toward,
+	author = {Dinh, Tran Hiep and Anh, Vu Thi Thuy and Nguyen, TruongGiang and Hieu Le, Cong and Trung, Nguyen Linh and Duc, Nguyen Dinh and Lin, Chin-Teng},
+	journal = {IEEE Transactions on Instrumentation and Measurement},
+	year = {2023},
+	pages = {1--15},
+	publisher = {{Institute of Electrical and Electronics Engineers (IEEE)}},
+	title = {Toward vision-based concrete crack detection: Automatic simulation of real-world cracks},
+	volume = {72},
+}
+```
