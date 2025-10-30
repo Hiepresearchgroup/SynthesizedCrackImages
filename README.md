@@ -1,4 +1,4 @@
-# SimCrackGAN
+# SynthesizedCrackImages
 Synthesizing Semantic Crack Images Using Propagation Simulations and GANs
 
 ## 💾 Dataset
@@ -18,7 +18,7 @@ The comprehensive dataset used in this study consists of **90,000 images** and i
 | OASIS10k        | 10,000 | Synthesized using OASIS |
 | OASIS10k_nn     | 10,000 | Synthesized without additive noise using OASIS |
 
-**➡️ Download the dataset link in file pdf here:** [SimCrackGan Dataset](SimCrackGAN.pdf)
+**➡️ Download the dataset link in file pdf here:** [SynthesizedCrackImages Dataset](SimCrackGAN.pdf)
 
 ```bash
 # Run the script download the dataset with:
