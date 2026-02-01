@@ -1,6 +1,8 @@
 # SynthesizedCrackImages
 Synthesizing Semantic Crack Images Using Propagation Simulations and GANs
+
 ![Demo](/model_comparison_cumulative.gif)
+Qualitative comparison of model outputs under varying levels of input noise for synthesized semantic crack images using propagation simulations and GANs.
 ## 💾 Dataset
 
 The comprehensive dataset used in this study consists of **90,000 images** and is available for download. The dataset is organized into two main parts:
