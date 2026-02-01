@@ -1,6 +1,6 @@
 # SynthesizedCrackImages
 Synthesizing Semantic Crack Images Using Propagation Simulations and GANs
-
+![Demo](/model_comparison_cumulative.gif)
 ## 💾 Dataset
 
 The comprehensive dataset used in this study consists of **90,000 images** and is available for download. The dataset is organized into two main parts:
