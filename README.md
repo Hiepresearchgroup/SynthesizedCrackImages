@@ -1,7 +1,10 @@
 # SynthesizedCrackImages
 Synthesizing Semantic Crack Images Using Propagation Simulations and GANs
+Demo 1
 
 ![Demo](/model_comparison_cumulative.gif)
+![Demo2](model_comparison_cumulativev3.gif)
+![Demo3](model_comparison_cumulative_v1.gif)
 Qualitative comparison of model outputs under varying levels of input noise for synthesized semantic crack images using propagation simulations and GANs.
 ## 💾 Dataset
 
