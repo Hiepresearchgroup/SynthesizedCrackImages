@@ -45,6 +45,7 @@ Each model corresponds to a specific image synthesis framework used in this work
 ### 🔹 DP-GAN
 - **Generator:** `best_G_DPGAN.pth`
 - **Discriminator:** `best_D_DPGAN.pth`
+- 
 All files are provided in **PyTorch (`.pth`) format** for **research and academic use only**. 
 	
 **Citation**
