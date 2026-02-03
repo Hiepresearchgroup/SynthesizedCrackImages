@@ -44,7 +44,7 @@ Each model corresponds to a specific image synthesis framework used in this work
 ### 🔹 DP-GAN
 - **Generator:** `best_G_DPGAN.pth`
 - **Discriminator:** `best_D_DPGAN.pth`
-All files are provided in **PyTorch (`.pth`) format** for **research and academic use only**. https://github.com/HiepResearchGroup/SynthesizedCrackImages/releases/tag/v1.0-models
+All files are provided in **PyTorch (`.pth`) format** for **research and academic use only**. [![Download for Pretrained](https://img.shields.io/badge/Download%20for%20Windows-%F0%9F%92%BB-blue?style=for-the-badge)](https://github.com/Hiepresearchgroup/SynthesizedCrackImages/releases/tag/v1.0)
 	
 **Citation**
 ```
