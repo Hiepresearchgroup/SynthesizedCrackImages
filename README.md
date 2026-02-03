@@ -29,6 +29,7 @@ The comprehensive dataset used in this study consists of **90,000 images** and i
 python download_dataset.py
 ```
 ## Pretrained Models
+[![Download for Pretrained](https://img.shields.io/badge/Download%20for%20Windows-%F0%9F%92%BB-blue?style=for-the-badge)](https://github.com/Hiepresearchgroup/SynthesizedCrackImages/releases/tag/v1.0)
 
 The following pretrained models are released via GitHub Releases.
 Each model corresponds to a specific image synthesis framework used in this work.
@@ -44,7 +45,7 @@ Each model corresponds to a specific image synthesis framework used in this work
 ### 🔹 DP-GAN
 - **Generator:** `best_G_DPGAN.pth`
 - **Discriminator:** `best_D_DPGAN.pth`
-All files are provided in **PyTorch (`.pth`) format** for **research and academic use only**. [![Download for Pretrained](https://img.shields.io/badge/Download%20for%20Windows-%F0%9F%92%BB-blue?style=for-the-badge)](https://github.com/Hiepresearchgroup/SynthesizedCrackImages/releases/tag/v1.0)
+All files are provided in **PyTorch (`.pth`) format** for **research and academic use only**. 
 	
 **Citation**
 ```
