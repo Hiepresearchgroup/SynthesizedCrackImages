@@ -28,6 +28,24 @@ The comprehensive dataset used in this study consists of **90,000 images** and i
 # Run the script download the dataset with:
 python download_dataset.py
 ```
+## Pretrained Models
+
+The following pretrained models are released via GitHub Releases.
+Each model corresponds to a specific image synthesis framework used in this work.
+
+### 🔹 OASIS
+- **Generator:** `best_G.pth`
+- **Discriminator:** `best_D.pth`
+
+### 🔹 pix2pixHD
+- **Generator:** `latest_net_G.pth`
+- **Discriminator:** `latest_net_D.pth`
+
+### 🔹 DP-GAN
+- **Generator:** `best_G_DPGAN.pth`
+- **Discriminator:** `best_D_DPGAN.pth`
+All files are provided in **PyTorch (`.pth`) format** for **research and academic use only**. https://github.com/HiepResearchGroup/SynthesizedCrackImages/releases/tag/v1.0-models
+	
 **Citation**
 ```
 @article{dinh2025simcrackgan,
