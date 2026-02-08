@@ -62,7 +62,7 @@ All files are provided in **PyTorch (`.pth`) format** for **research and academi
 
 To ensure the synthesized cracks adhere to physical laws rather than just visual imitation, this work builds upon our previous research in fracture mechanics. A critical component of this approach is the modeling of the crack tip the precise location where material separation occurs and propagation direction is determined.
 
-By utilizing the Extended Finite Element Method (X-FEM) coupled with the Level Set Method (LSM), we developed an automated pipeline to simulate realistic propagation paths and extract precise crack tip coordinates. These physical simulations provide the structural "skeleton" for the semantic masks used in our GAN training. The dataset of these coordinates is provided in Tex1000_1n_1cd__3p.txt. For a detailed explanation of the automatic simulation and crack tip extraction methodology, please refer to our foundational paper below
+By utilizing the Extended Finite Element Method (X-FEM) coupled with the Level Set Method (LSM), we developed an automated pipeline to simulate realistic propagation paths and extract precise crack tip coordinates. These physical simulations provide the structural "skeleton" for the semantic masks used in our GAN training. The dataset of these coordinates is provided in Tex1000_1n_1cd__3p.txt. For a detailed explanation of the automatic simulation and crack tip extraction methodology, please refer to our foundational paper below.
 
 **Citation**
 ```
